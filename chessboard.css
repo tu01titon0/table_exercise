@@ -1,0 +1,23 @@
+.center_card {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.white-bg{
+    width: 100px;
+    height: 75px;
+    background-color: white;
+}
+.black-bg{
+    background-color: black;
+}
+body{
+    background-color: rgb(235, 195, 15);
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    padding: 10px;
+    font-size: 25px;
+}
